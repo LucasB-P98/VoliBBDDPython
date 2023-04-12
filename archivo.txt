@@ -1,8 +1,0 @@
-Esto ha sido modificado en python
-Comprobando si funciona
-Hola, usando APPEND para agregar codigo al texto
-Hola, usando APPEND para agregar codigo al texto
-Hola, usando APPEND para agregar codigo al texto
-Hola, usando APPEND para agregar codigo al texto
-Hola, usando APPEND para agregar codigo al texto
-Hola, usando APPEND para agregar codigo al textogo al texto
